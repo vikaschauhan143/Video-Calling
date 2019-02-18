@@ -1,0 +1,6 @@
+framework module Pods_OmyaoVideo {
+  umbrella header "Pods-OmyaoVideo-umbrella.h"
+
+  export *
+  module * { export * }
+}
